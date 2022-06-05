@@ -84,9 +84,15 @@ const Hero = () => {
       </div>
 
       <footer className="footer">
-        <div className="footer-wrapper">
-          <aside className="credit ">hey</aside>
-        </div>
+        <aside className="credit ">
+          {" "}
+          Mock<span>Int </span>© 2022
+        </aside>
+
+        <aside className="credit ">
+          {" "}
+          Mock Interview,<span>Made Easy </span>
+        </aside>
       </footer>
     </>
   );

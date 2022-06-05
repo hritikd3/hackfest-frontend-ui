@@ -490,3 +490,20 @@ span {
   color: var(--clr-grey-5);
   margin-right: 1rem;
 }
+
+/* footer */
+.footer {
+  background-color: rgb(255, 253, 253);
+  padding: 24px;
+  box-shadow: 2px 2px 3px 2px #696969;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.credit {
+  float: center;
+  font-weight: bold;
+  font-size: 20px;
+  /* padding-bottom: 33px; */
+}
