@@ -495,7 +495,7 @@ span {
 .footer {
   background-color: rgb(255, 253, 253);
   padding: 24px;
-  box-shadow: 2px 2px 3px 2px #696969;
+  box-shadow: 2px 2px 7px 4px #8a848471;
   display: flex;
   align-items: center;
   justify-content: space-between;
