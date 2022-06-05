@@ -83,7 +83,11 @@ const Hero = () => {
         </article>
       </div>
 
-      <footer className="footer"></footer>
+      <footer className="footer">
+        <div className="footer-wrapper">
+          <aside className="credit ">hey</aside>
+        </div>
+      </footer>
     </>
   );
 };
